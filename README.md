@@ -1,5 +1,5 @@
 # Resources:
-
+I am submitting this program for classwork, I am not the author of the program.
 + README.md: this file.
 + data/davis/folds/test_fold_setting1.txt,train_fold_setting1.txt; data/davis/Y,ligands_can.txt,proteins.txt
   data/kiba/folds/test_fold_setting1.txt,train_fold_setting1.txt; data/kiba/Y,ligands_can.txt,proteins.txt
