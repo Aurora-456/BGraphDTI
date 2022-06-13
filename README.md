@@ -1,5 +1,6 @@
 # Resources:
-I am submitting this program for classwork, I am not the author of the program.
+Jin Yao studied at Liaoning University of Engineering and Technology.
+This procedure is submitted to meet the needs of daily operations。
 + README.md: this file.
 + data/davis/folds/test_fold_setting1.txt,train_fold_setting1.txt; data/davis/Y,ligands_can.txt,proteins.txt
   data/kiba/folds/test_fold_setting1.txt,train_fold_setting1.txt; data/kiba/Y,ligands_can.txt,proteins.txt
